@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.less']
 })
 export class AppComponent {
-  title = 'hello-angular';
+  title = '夏天的球场，球场的天空-这个是首页';
 }
